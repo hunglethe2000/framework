@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Penny O'Kon",
+      "price": "",
+      "category": "{cate.id}",
+      "createdAt": "2021-07-14T14:25:13.616Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/polarity_128.jpg"
+    },
+    {
+      "createdAt": "2021-07-14T23:26:19.985Z",
+      "name": "Johnny Kunde",
+      "avatar": "https://cdn.fakercloud.com/avatars/snowwrite_128.jpg",
+      "id": "2"
+    },
+    {
+      "createdAt": "2021-07-14T07:46:49.183Z",
+      "name": "Hannah Morar",
+      "avatar": "https://cdn.fakercloud.com/avatars/robbschiller_128.jpg",
+      "id": "3"
+    },
+    {
+      "createdAt": "2021-07-14T20:18:02.090Z",
+      "name": "Faye Dare",
+      "avatar": "https://cdn.fakercloud.com/avatars/jomarmen_128.jpg",
+      "id": "4"
+    },
+    {
+      "createdAt": "2021-07-14T07:27:24.271Z",
+      "name": "Edward Kuhlman",
+      "avatar": "https://cdn.fakercloud.com/avatars/kennyadr_128.jpg",
+      "id": "5"
+    },
+    {
+      "createdAt": "2021-07-14T16:07:29.176Z",
+      "name": "Grant Feil",
+      "avatar": "https://cdn.fakercloud.com/avatars/swaplord_128.jpg",
+      "id": "6"
+    },
+    {
+      "createdAt": "2021-07-14T12:56:14.297Z",
+      "name": "Clint Rogahn",
+      "avatar": "https://cdn.fakercloud.com/avatars/ratbus_128.jpg",
+      "id": "7"
+    },
+    {
+      "createdAt": "2021-07-14T22:44:53.325Z",
+      "name": "Noel Hills",
+      "avatar": "https://cdn.fakercloud.com/avatars/okansurreel_128.jpg",
+      "id": "8"
+    },
+    {
+      "createdAt": "2021-07-14T22:06:50.019Z",
+      "name": "Sheri Kozey",
+      "avatar": "https://cdn.fakercloud.com/avatars/ntfblog_128.jpg",
+      "id": "9"
+    },
+    {
+      "createdAt": "2021-07-14T14:53:38.055Z",
+      "name": "Leigh Okuneva",
+      "avatar": "https://cdn.fakercloud.com/avatars/kevinjohndayy_128.jpg",
+      "id": "10"
+    },
+    {
+      "createdAt": "2021-07-14T14:28:55.934Z",
+      "name": "Alison Feest DVM",
+      "avatar": "https://cdn.fakercloud.com/avatars/jackiesaik_128.jpg",
+      "id": "11"
+    },
+    {
+      "createdAt": "2021-07-14T17:31:53.788Z",
+      "name": "Micheal Fadel",
+      "avatar": "https://cdn.fakercloud.com/avatars/gabrielizalo_128.jpg",
+      "id": "12"
+    },
+    {
+      "createdAt": "2021-07-14T16:55:14.498Z",
+      "name": "Glenn McCullough",
+      "avatar": "https://cdn.fakercloud.com/avatars/dmackerman_128.jpg",
+      "id": "13"
+    },
+    {
+      "createdAt": "2021-07-14T23:23:40.163Z",
+      "name": "Donald Keeling",
+      "avatar": "https://cdn.fakercloud.com/avatars/thimo_cz_128.jpg",
+      "id": "14"
+    },
+    {
+      "createdAt": "2021-07-14T15:10:04.735Z",
+      "name": "Ira Kautzer",
+      "avatar": "https://cdn.fakercloud.com/avatars/byryan_128.jpg",
+      "id": "15"
+    },
+    {
+      "createdAt": "2021-07-14T23:50:31.034Z",
+      "name": "Carla Dare I",
+      "avatar": "https://cdn.fakercloud.com/avatars/hgharrygo_128.jpg",
+      "id": "16"
+    },
+    {
+      "createdAt": "2021-07-15T00:55:15.552Z",
+      "name": "Irma Klocko",
+      "avatar": "https://cdn.fakercloud.com/avatars/peejfancher_128.jpg",
+      "id": "17"
+    },
+    {
+      "createdAt": "2021-07-14T07:52:42.557Z",
+      "name": "Amos Wisoky",
+      "avatar": "https://cdn.fakercloud.com/avatars/zaki3d_128.jpg",
+      "id": "18"
+    },
+    {
+      "createdAt": "2021-07-14T14:59:26.367Z",
+      "name": "Deanna Schinner",
+      "avatar": "https://cdn.fakercloud.com/avatars/jnmnrd_128.jpg",
+      "id": "19"
+    },
+    {
+      "createdAt": "2021-07-14T19:59:54.561Z",
+      "name": "Marion Mills",
+      "avatar": "https://cdn.fakercloud.com/avatars/juaumlol_128.jpg",
+      "id": "20"
+    },
+    {
+      "createdAt": "2021-07-14T11:25:29.799Z",
+      "name": "Gregory Shanahan II",
+      "avatar": "https://cdn.fakercloud.com/avatars/plbabin_128.jpg",
+      "id": "21"
+    },
+    {
+      "createdAt": "2021-07-15T05:24:54.999Z",
+      "name": "Hattie Hermiston I",
+      "avatar": "https://cdn.fakercloud.com/avatars/beshur_128.jpg",
+      "id": "22"
+    },
+    {
+      "createdAt": "2021-07-14T19:33:57.617Z",
+      "name": "Keith Kris",
+      "avatar": "https://cdn.fakercloud.com/avatars/matt3224_128.jpg",
+      "id": "23"
+    },
+    {
+      "createdAt": "2021-07-14T16:07:27.950Z",
+      "name": "Viola Littel",
+      "avatar": "https://cdn.fakercloud.com/avatars/coreyweb_128.jpg",
+      "id": "24"
+    },
+    {
+      "createdAt": "2021-07-14T17:56:19.230Z",
+      "name": "Joann O'Conner",
+      "avatar": "https://cdn.fakercloud.com/avatars/brenton_clarke_128.jpg",
+      "id": "25"
+    },
+    {
+      "id": "26",
+      "name": "Tyler Tillman",
+      "price": "22222",
+      "category": "13002400422004133111231",
+      "createdAt": "2021-07-14T20:16:56.651Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/low_res_128.jpg"
+    },
+    {
+      "id": "120311020431321123031313",
+      "name": "demo123",
+      "price": "3333",
+      "category": "Danh muc B",
+      "categoy": "Danh muc B"
+    },
+    {
+      "id": "103401424214000431211122",
+      "name": "Lê Thế Hùng123",
+      "price": "32133",
+      "category": "042204433240023131424244"
+    },
+    {
+      "id": "0242043341011311202042113",
+      "name": "demo",
+      "price": "30000",
+      "category": "32241303012201000204021"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Iphone123"
+    },
+    {
+      "id": "13002400422004133111231",
+      "name": "Oppo"
+    },
+    {
+      "id": "32241303012201000204021",
+      "name": "Nokia"
+    },
+    {
+      "id": "042204433240023131424244",
+      "name": "demo"
+    }
+  ],
+  "users": [
+    {
+      "email": "hungvirut2000@gmail.com",
+      "password": "$2a$10$.kDBtcs2aWMBSwyxoFePieFqLItR.GfUMH2fobyGtTrr5Abz8LQsC",
+      "name": "Lê Thế Hùng1",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$TXl7v897vJGxXMKjFstX8Oly4apwGDs.mbpooz1m2UMx.WubtQRQ6",
+      "name": "Lê Thế Hùng2",
+      "id": 2
+    },
+    {
+      "email": "admin3@gmail.com",
+      "password": "$2a$10$jSqp1RReIxbtsu6tyW8ZvOMM2.hZJRrFLV2Kkp.QSYeGbqEqn2rTG",
+      "name": "Lê Thế Hùng 3",
+      "id": 3
+    },
+    {
+      "email": "admin4@gmail.com",
+      "password": "$2a$10$5EawyoFGHhyL8DqZT8x8cuPhiLUCsoiCZ96NLiPmUNLZJHhHqYICS",
+      "name": "Lê Thế Hùng 4",
+      "id": 4
+    }
+  ]
+}
